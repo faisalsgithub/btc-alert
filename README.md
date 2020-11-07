@@ -6,4 +6,4 @@ To celebrate, I created this silly app as an alert inspired from the show 'Silic
 
 _Whenever the price of bitcoin dips below a certain value, it's no longer efficient to mine._
 
-[<img src="https://imgur.com/RIPJk9W">]
+![gilfoyle](<img src="https://imgur.com/RIPJk9W">)
