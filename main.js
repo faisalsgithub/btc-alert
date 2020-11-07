@@ -1,5 +1,7 @@
 let priceBTC = [15000, 15000]; // Whenever BTC dips below 15000 (sad)
 
+window.alert('This app requires autoplay to run!');
+
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function () {
 	if (this.readyState == 4 && this.status == 200) {
